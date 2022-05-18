@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/res">
+        <file>res/images/bg.png</file>
+        <file>res/images/cross_large.png</file>
+        <file>res/images/cross_small.png</file>
+        <file>res/images/name.png</file>
+        <file>res/images/title_ico.png</file>
+        <file>res/images/zero_large.png</file>
+        <file>res/images/zero_small.png</file>
+    </qresource>
+</RCC>
